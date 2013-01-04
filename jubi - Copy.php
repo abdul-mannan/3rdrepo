@@ -7,7 +7,7 @@
 
 <body>
 <?php
-echo "3rd test file to another_rep";
+echo "file transfered with git gui";
 
 ?>
 </body>
